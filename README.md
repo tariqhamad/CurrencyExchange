@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Tariq</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭This is my project [Currency Exchange](https://tariqhamad.github.io/CurrencyExchange/)
+🔭This is my project [Currency Exchange](https://tariqhamad.github.io/CurrencyExchange/)
+
+🎗 project: A simple, interactive web app that allows users to convert between United States Dollars (USD) and United Arab     Emirates Dirhams (AED) with a single click. Built with HTML, CSS, and JavaScript, this tool ensures accurate conversion       using a fixed exchange rate and provides input validation to enhance user experience.
+
+🧠 Features:
+  
+🔁 Convert from USD to AED and vice versa
+
+⚠️ Detects and alerts users when non-numeric values are entered
+
+🎨 Clean and modern user interface with responsive styling
+
+⚡ Instant conversion on button click — no page reload needed
+
 
 - 🌱 I’m currently learning **React, Vuejs, Express.js Next.js**
 
